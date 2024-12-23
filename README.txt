@@ -1,1 +1,1 @@
-See http://llvm.org/docs/LibFuzzer.html
+NOTE: compared to fuzzbench, use -print-coverage NOT -dump-coverage 
